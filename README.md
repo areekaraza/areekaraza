@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @areekaraza
 - 👀 I’m interested in enterprise software, AI, automation, and creative technologies
-- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on tech-enabled problem solving and innovative web projects
 - 📫 How to reach me: via Email
 - 😄 Pronouns: She/Her
